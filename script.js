@@ -1,4 +1,5 @@
-let nota1tri;
+function nota(){
+    let nota1tri;
 let nota2tri;
 let resultado;
 
@@ -12,3 +13,5 @@ if(resultado <= 0){
 } else {
     alert("Poxa, você vacilou legal, precisa de " + resultado+ "Para se aprovado.");
 }
+}
+
